@@ -13,9 +13,6 @@ Because Zenith runs entirely out of a single file, it utilizes a highly decouple
 
 ---
 
-## Deep Dive: Core Pillars
-
-
 ## Core Features
 
 * **Wasm-Driven Proxy Engine:** Inherited from HORIZON. Uses `libcurl.js` compiled to WebAssembly running over the WISP protocol instead of Service Workers—making it entirely immune to standard URL blocklists and extension filters.
