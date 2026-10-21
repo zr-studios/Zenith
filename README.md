@@ -32,19 +32,6 @@ A dedicated playground layer built right into the architecture for downtime or t
 
 ---
 
-## Why Single-File?
-
-* **Portability:** Move your entire suite anywhere via a single copy-paste, curl command, or file transfer.
-* **Zero Configuration Hell:** No intricate folder mappings, broken symlinks, or missing companion assets. 
-* **Instant Deployment:** Ideal for sandboxed environments, restricted servers, or minimal system overhead containers.
-* **Portability:** Move your entire suite anywhere via a single copy-paste, curl command, or file transfer.
-* **Zero Configuration Hell:** No intricate folder mappings, broken symlinks, or missing companion assets. 
-* **Instant Deployment:** Ideal for sandboxed environments, restricted servers, or minimal system overhead containers.
-
-* # Zenith
-
-A supercharged, single-file static powerhouse featuring intelligent web proxying, native cloud-free games, an embedded AI assistant, and zero-setup deployment. 
-
 Zenith is a unified client-side browser environment created by fusing the networking resilience of **HORIZON** and the performance-optimized entertainment engine of **NLGEP**. Rather than trying to replace either, Zenith blends their strengths: extracting HORIZON's unblockable WebAssembly-driven network tunneling and marrying it to NLGEP's dynamic media streaming architecture and low-latency gaming framework. 
 
 ---
@@ -68,6 +55,15 @@ Open the file in a text editor, copy all of the source code (`Ctrl + A`), and pa
 
 ---
 
+## Why Single-File?
+
+* **Portability:** Move your entire suite anywhere via a single copy-paste, curl command, or file transfer.
+* **Zero Configuration Hell:** No intricate folder mappings, broken symlinks, or missing companion assets. 
+* **Instant Deployment:** Ideal for sandboxed environments, restricted servers, or minimal system overhead containers.
+* **Portability:** Move your entire suite anywhere via a single copy-paste, curl command, or file transfer.
+* **Zero Configuration Hell:** No intricate folder mappings, broken symlinks, or missing companion assets. 
+* **Instant Deployment:** Ideal for sandboxed environments, restricted servers, or minimal system overhead containers.
+ 
 ## Credits & Framework Lineage
 
 Zenith is proudly built on the backs of giants in the open-source privacy community. Deep gratitude and credit go out to:
