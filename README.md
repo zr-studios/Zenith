@@ -2,7 +2,7 @@
 
 A supercharged, single-file project built for speed, utility, and intelligence. 
 
-Zenith is a unified ecosystem engineered by fusing the elite capabilities of **HORIZON** and **NLGEP**. Rather than attempting to replace either framework, Zenith bridges the gap—extracting HORIZON's robust routing resilience and marrying it to NLGEP’s dynamic logic processing. The result is a lightweight, zero-bloat environment containing a self-contained AI module, an on-demand gaming suite, and a high-performance proxy engine packed into a single script.
+Zenith is a unified ecosystem engineered by fusing the elite capabilities of **HORIZON** and **NLGEP**. Rather than attempting to replace either framework, Zenith bridges the gap—extracting HORIZON's robust routing resilience and combining it with NLGEP’s dynamic logic processing. The result is a lightweight, zero-bloat environment containing a self-contained AI module, an on-demand gaming suite, and a high-performance proxy engine packed into a single script.
 
 ---
 
@@ -16,7 +16,7 @@ Because Zenith runs entirely out of a single file, it utilizes a highly decouple
 ## Core Features
 
 * **Wasm-Driven Proxy Engine:** Inherited from HORIZON. Uses `libcurl.js` compiled to WebAssembly running over the WISP protocol instead of Service Workers—making it entirely immune to standard URL blocklists and extension filters.
-* **Stream & Game Optimization:** Built using NLGEP's data-splitting layer. Large multimedia assets and heavy multiplayer web games load in fragmented sections to bypass strict memory limits and drop latency.
+* **Stream & Game Optimization:** Built using NLGEP's data-splitting layer. Large multimedia assets and heavy multiplayer web games load in fragmented sections to bypass strict memory limits and reduce latency.
 * **Intelligent Client-Side AI:** An integrated companion interface providing offline automation tools, contextual logic assistance, and automatic proxy fallback configurations.
 * **100% Single-File Portability:** Zero dependencies, zero build steps, and zero server architecture. Everything runs smoothly inside a single `.html` document.
 
@@ -29,10 +29,6 @@ Built directly upon HORIZON’s networking framework, the native proxy engine gi
 A dedicated playground layer built right into the architecture for downtime or testing interaction responsiveness.
 * **No-Asset Rendering:** Games are delivered utilizing text-based matrices, inline canvas components, or lightweight mathematical rendering, requiring exactly zero external image or audio files.
 * **Low Latency:** Runs directly on the main event loop's tick system with negligible CPU footprint.
-
----
-
-Zenith is a unified client-side browser environment created by fusing the networking resilience of **HORIZON** and the performance-optimized entertainment engine of **NLGEP**. Rather than trying to replace either, Zenith blends their strengths: extracting HORIZON's unblockable WebAssembly-driven network tunneling and marrying it to NLGEP's dynamic media streaming architecture and low-latency gaming framework. 
 
 ---
 
